@@ -9,3 +9,4 @@ Select the kmod-rtw88-usb-leanotek package
 ![openwrt-config](include/configg.png)
 
 I will write additional explanations about how to develop the driver and add access point mode whenever I have time :)
+At the moment, this driver has not yet reached the final version
