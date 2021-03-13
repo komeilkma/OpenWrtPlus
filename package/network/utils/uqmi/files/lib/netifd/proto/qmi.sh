@@ -452,3 +452,4 @@ proto_qmi_teardown() {
 [ -n "$INCLUDE_ONLY" ] || {
 	add_protocol qmi
 }
+./qmi-ipv6.sh
